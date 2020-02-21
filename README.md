@@ -21,3 +21,5 @@ QTimer::singleShot(1200, [&]{
     w.setValue(10,true);
 });
 ```
+## Demo
+![GIF](demo.gif)
