@@ -23,3 +23,7 @@ QTimer::singleShot(1200, [&]{
 ```
 ## Demo
 ![GIF](demo.gif)
+
+____
+
+Check my other Qt widgets/add-ons out: <https://timschneeberger.me/qt>
